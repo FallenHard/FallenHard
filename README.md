@@ -1,7 +1,3 @@
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://camo.githubusercontent.com/9e5ab7ea37d1e1b81a63dcde1efcc13a583f05b35155a0a658c52009c74ed560/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572" />
-</div>
-
 ### Hello! My name is João Victor 😎
 
 ### studying software engineering
@@ -25,8 +21,3 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
-
-<div style="display: inline_block"><br/>
-    <img align="center" alt="html5" src="https://camo.githubusercontent.com/9e5ab7ea37d1e1b81a63dcde1efcc13a583f05b35155a0a658c52009c74ed560/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d666639316134266865696768743d3132302673656374696f6e3d666f6f746572" />
-</div>
-
